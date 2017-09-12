@@ -1,6 +1,6 @@
 ## Why the fork:
 I liked this boilerplate, but wanted to make a few changes to better suit my preferences:
-* Replaced the sock-drawer redux approach with single-file redux modules [https://github.com/erikras/ducks-modular-redux](AKA Redux Ducks) 
+* Replaced the sock-drawer redux approach with single-file redux modules [AKA Redux Ducks](https://github.com/erikras/ducks-modular-redux)
 * Added tslinting to my preferences and changed the syntax to match it (no semicolons and double-quoted strings).
 * Added yarn lockfile
 
