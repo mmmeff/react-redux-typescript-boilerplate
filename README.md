@@ -1,3 +1,12 @@
+## Why the fork:
+I liked this boilerplate, but wanted to make a few changes to better suit my preferences:
+* Replaced the sock-drawer redux approach with single-file redux modules [https://github.com/erikras/ducks-modular-redux](AKA Redux Ducks) 
+* Added tslinting to my preferences and changed the syntax to match it (no semicolons and double-quoted strings).
+* Added yarn lockfile
+
+---
+
+
 # Frontend Boilerplate with React, Redux & TypeScript
 
 A bare minimum react-redux-webpack-typescript boilerplate with TodoMVC example.
