@@ -12,11 +12,13 @@
         "eofline": false,
         "interface-name": false,
         "no-empty-interface": false,
+        "no-namespace": false,
         "member-ordering": false,
         "max-line-length": false,
         "object-literal-key-quotes": false,
         "max-classes-per-file": false,
         "no-var-requires": false,
+        "member-access": false,
         "ban-types": false,
         "no-empty": false,
         "no-consecutive-blank-lines": [
